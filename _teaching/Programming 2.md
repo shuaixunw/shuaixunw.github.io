@@ -8,13 +8,13 @@ date: 2022-10-01
 location: "London, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I've been the teaching assistant for Programming 2 for three consecutive years (2022-2024).
 
-Heading 1
+Course Leader
 ======
+Dr. James Choi
 
-Heading 2
+Course Content
 ======
+Further build on the knowledge of computer fundamentals and expand the understanding of programming through exploring data structures, object oriented programming, and algorithm design.
 
-Heading 3
-======
