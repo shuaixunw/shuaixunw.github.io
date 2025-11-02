@@ -17,10 +17,10 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Research Softwares"
-    url: /year-archive/
+  # - title: "Research Softwares"
+  #   url: /year-archive/
   
-   - title: "Research Interests"
+  - title: "Research Interests"
      url: /talks/  
     
   - title: "CV"
